@@ -1,0 +1,15 @@
+/Users/ongemach.w/Desktop/Seminar1/Task_3/obj/Debug/net6.0/Task_3.csproj.AssemblyReference.cache
+/Users/ongemach.w/Desktop/Seminar1/Task_3/obj/Debug/net6.0/Task_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ongemach.w/Desktop/Seminar1/Task_3/obj/Debug/net6.0/Task_3.AssemblyInfoInputs.cache
+/Users/ongemach.w/Desktop/Seminar1/Task_3/obj/Debug/net6.0/Task_3.AssemblyInfo.cs
+/Users/ongemach.w/Desktop/Seminar1/Task_3/obj/Debug/net6.0/Task_3.csproj.CoreCompileInputs.cache
+/Users/ongemach.w/Desktop/Seminar1/Task_3/bin/Debug/net6.0/Task_3
+/Users/ongemach.w/Desktop/Seminar1/Task_3/bin/Debug/net6.0/Task_3.deps.json
+/Users/ongemach.w/Desktop/Seminar1/Task_3/bin/Debug/net6.0/Task_3.runtimeconfig.json
+/Users/ongemach.w/Desktop/Seminar1/Task_3/bin/Debug/net6.0/Task_3.dll
+/Users/ongemach.w/Desktop/Seminar1/Task_3/bin/Debug/net6.0/Task_3.pdb
+/Users/ongemach.w/Desktop/Seminar1/Task_3/obj/Debug/net6.0/Task_3.dll
+/Users/ongemach.w/Desktop/Seminar1/Task_3/obj/Debug/net6.0/refint/Task_3.dll
+/Users/ongemach.w/Desktop/Seminar1/Task_3/obj/Debug/net6.0/Task_3.pdb
+/Users/ongemach.w/Desktop/Seminar1/Task_3/obj/Debug/net6.0/Task_3.genruntimeconfig.cache
+/Users/ongemach.w/Desktop/Seminar1/Task_3/obj/Debug/net6.0/ref/Task_3.dll
