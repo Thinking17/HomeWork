@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ongemach.w/Desktop/Seminar1/Exersise/Exersise.csproj",
-      "projectName": "Exersise",
-      "projectPath": "/Users/ongemach.w/Desktop/Seminar1/Exersise/Exersise.csproj",
+      "projectUniqueName": "/Users/ongemach.w/Desktop/Seminar1/Task_1/Task_1.csproj",
+      "projectName": "Task_1",
+      "projectPath": "/Users/ongemach.w/Desktop/Seminar1/Task_1/Task_1.csproj",
       "packagesPath": "/Users/ongemach.w/.nuget/packages/",
-      "outputPath": "/Users/ongemach.w/Desktop/Seminar1/Exersise/obj/",
+      "outputPath": "/Users/ongemach.w/Desktop/Seminar1/Task_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ongemach.w/.nuget/NuGet/NuGet.Config"
